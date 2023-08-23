@@ -32,7 +32,7 @@
   "devDependencies": {
     "@jest/globals": "^29.0.3",
     "@types/node": "^18.7.18",
-    "@typescript-eslint/parser": "^5.11.0",
+    "@typescript-eslint/parser": "^6.4.1",
     "@vercel/ncc": "^0.34.0",
     "eslint": "^8.8.0",
     "eslint-plugin-github": "^4.3.5",
