@@ -1,7 +1,7 @@
 name: Calendar Version
 author: Eric Marshall
 runs:
-  using: node16
+  using: node20
   main: dist/index.js
 description: Calendar based versioning
 branding:
